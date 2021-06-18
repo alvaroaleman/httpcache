@@ -7,5 +7,6 @@ require (
 	github.com/gomodule/redigo v1.8.5
 	github.com/google/btree v1.0.1 // indirect
 	github.com/peterbourgon/diskv v2.0.1+incompatible
+	github.com/sirupsen/logrus v1.8.1
 	github.com/syndtr/goleveldb v1.0.0
 )
